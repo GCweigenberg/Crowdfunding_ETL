@@ -1,2 +1,2 @@
 # Crodwfunding_ETL
-Project 2 Data Analytics bootcamp
+In this Project, I built an ETL pipeline using Python, Pandas, and Python dictionary methods to extract and transform crowdfunding data. After transforming the data, I created four CSV files and used the file data to create an Entity-Relationship-Diagram and a table schema. Finally, I uploaded the CSV file data into a Postgres database.
